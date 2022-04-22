@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T10:12:53.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="QZ3Elq9HJAM0vmX-Ibxc" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-22T10:18:45.423Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="4a1qosrZm1mknafTG0Jz" version="14.6.13" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1697" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -158,19 +158,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RFSvrGeNP7GwLWuECoFu-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.171;exitY=0.764;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7baba1c4bc27f4b0-10" target="7baba1c4bc27f4b0-3">
+        <mxCell id="RFSvrGeNP7GwLWuECoFu-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="430" as="sourcePoint" />
-            <mxPoint x="660" y="470" as="targetPoint" />
+            <mxPoint x="510" y="440" as="sourcePoint" />
+            <mxPoint x="780" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="700" y="440" />
-              <mxPoint x="700" y="440" />
+              <mxPoint x="494" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RFSvrGeNP7GwLWuECoFu-30" value="业务操作" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RFSvrGeNP7GwLWuECoFu-29">
+        <mxCell id="RFSvrGeNP7GwLWuECoFu-30" value="前端带着cookie中的token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RFSvrGeNP7GwLWuECoFu-29">
           <mxGeometry x="0.2508" y="-1" relative="1" as="geometry">
-            <mxPoint x="-89" as="offset" />
+            <mxPoint x="-49" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RFSvrGeNP7GwLWuECoFu-31" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
